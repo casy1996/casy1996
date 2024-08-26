@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 📫 **Let's Connect:**
 Always open to collaborate or discuss opportunities. Reach me through the channels below!
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/christopher-andrew-sy/)
-[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](christophersy.sigh@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-andrew-sy/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christophersy.sigh@gmail.com)
