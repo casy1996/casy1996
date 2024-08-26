@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###🔭 **Projects**:
+### 🔭 **Projects**:
 
-###📫 **Let's Connect**: 
+### 📫 **Let's Connect**: 
 
 Always open to collaborate or discuss opportunities. Reach me through the channels below!
 
