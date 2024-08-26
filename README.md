@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 My name is Christopher Sy. I'm currently a bootcamp student with General Assembly for Software Engineering, building an expansive foundation in various languages, frameworks, and databases. I’m eager to apply my skills and continue learning as I transition into a professional role in tech.
 <!--
 **casy1996/casy1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 **Projects**:
+## 🔭 **Projects**:
 
-### 📫 **Let's Connect**: 
+## 📫 **Let's Connect**: 
 
 Always open to collaborate or discuss opportunities. Reach me through the channels below!
 
