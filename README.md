@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🔭 **Projects**:
-🎲[Vegas Roulette](https://github.com/casy1996/Vegas-Roulette)
+🎲 [Vegas Roulette](https://github.com/casy1996/Vegas-Roulette)
 - Classic roulette casino game | Browser-based (HTML/JavaScript/CSS)
   
-⌛[Intelligent Design](https://github.com/casy1996/Int-Design) | int-design-a8yh.onrender.com/
+⌛ [Intelligent Design](https://github.com/casy1996/Int-Design) | int-design-a8yh.onrender.com
 - Community powered interior design marketplace | Server-side SPA (Nodejs/Express/MongoDB)
 
-🗒️[Wrider](https://github.com/WriderApp/WriderBackEnd) | wrider.netlify.app
+🗒️ [Wrider](https://github.com/WriderApp/WriderBackEnd) | wrider.netlify.app
 - Organizational note taking for creatives | Full-stack (React/Nodejs/Express/MongoDB)
   
 ## 📫 **Let's Connect**: 
