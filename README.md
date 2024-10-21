@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 🗒️ [Wrider](https://github.com/WriderApp/WriderBackEnd) | wrider.netlify.app
 - Organizational note taking for creatives | Full-stack (React/Nodejs/Express/MongoDB)
 
-🤝 [Friendy](https://github.com/Friendy)
+🤝 [Friendy](https://github.com/casy1996/Friendy)
 - Event management app promoting local community engagement and finding new friends | Full-stack (React/Spring/PostgreSQL/Redis)
 
 ## 📫 **Let's Connect**: 
