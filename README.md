@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Organizational note taking for creatives | Full-stack (React/Nodejs/Express/MongoDB)
 
 🤝 [Friendy](https://github.com/Friendy)
-- Event management app promoting local community engagement and finding new firneds | Full-stack (React/Spring/PostgreSQL/Redis)
+- Event management app promoting local community engagement and finding new friends | Full-stack (React/Spring/PostgreSQL/Redis)
 
 ## 📫 **Let's Connect**: 
 
