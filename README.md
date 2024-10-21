@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Christopher Sy. I'm currently a bootcamp student with General Assembly for Software Engineering, building an expansive foundation in various languages, frameworks, and databases. I’m eager to apply my skills and continue learning as I transition into a professional role in tech.
+My name is Christopher Sy. I'm recently completed a bootcamp with General Assembly for Software Engineering, which allowed me to build an expansive foundation in various languages, frameworks, and databases. I’m eager to apply my skills and continue learning as I transition into a professional role in tech.
 <!--
 **casy1996/casy1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 
 🗒️ [Wrider](https://github.com/WriderApp/WriderBackEnd) | wrider.netlify.app
 - Organizational note taking for creatives | Full-stack (React/Nodejs/Express/MongoDB)
-  
+
+🤝 [Friendy](https://github.com/Friendy)
+- Event management app promoting local community engagement and finding new firneds | Full-stack (React/Spring/PostgreSQL/Redis)
+
 ## 📫 **Let's Connect**: 
 
 Always open to collaborate or discuss opportunities. Reach me through the channels below!
