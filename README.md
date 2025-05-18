@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Christopher Sy. I'm recently completed a bootcamp with General Assembly for Software Engineering, which allowed me to build an expansive foundation in various languages, frameworks, and databases. I’m eager to apply my skills and continue learning as I transition into a professional role in tech.
+My name is Christopher Sy. I've recently completed a bootcamp with General Assembly for Software Engineering, which allowed me to build an expansive foundation in various languages, frameworks, and databases. I’m eager to apply my skills and continue learning as I transition into a professional role in tech.
 <!--
 **casy1996/casy1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
